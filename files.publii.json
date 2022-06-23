@@ -117,7 +117,7 @@
     {
         "path": "/authors/hawkeye/index.html",
         "type": "file",
-        "md5": "f44970a682117fb963a63408ab5aa75f"
+        "md5": "1f166bd2135b9025f4db33ccab4806d8"
     },
     {
         "path": "courses-torrent.html",
@@ -125,9 +125,14 @@
         "md5": "fcaf0df9bbba020fac34b72872209c00"
     },
     {
+        "path": "guides-index.html",
+        "type": "file",
+        "md5": "7025a6075a3700aa6752c8d003a70c20"
+    },
+    {
         "path": "index.html",
         "type": "file",
-        "md5": "ada3296daa6b6bd07e4e6030f485f7b2"
+        "md5": "70d7137d05dc5f46d64587666f442633"
     },
     {
         "path": "media",
@@ -160,9 +165,164 @@
         "md5": "d25963fcf84c7f69feeecfe4da1663e8"
     },
     {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/guide",
+        "type": "file",
+        "md5": "25f2eebe5bdb0c0516b363148fa76861"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/allow-switch-access-control.webp",
+        "type": "file",
+        "md5": "f2b9c2550bb8825f6bd293e746e46549"
+    },
+    {
+        "path": "/media/posts/4/choose-how-to-scan-and-assign-gestures-2.webp",
+        "type": "file",
+        "md5": "d8c7fb0b345d4f0e17d05214c8e50daa"
+    },
+    {
+        "path": "/media/posts/4/choose-switch-type-and-number-of-switches.webp",
+        "type": "file",
+        "md5": "b23a0c24108f240a818139973989dd9f"
+    },
+    {
+        "path": "/media/posts/4/control-phone",
+        "type": "file",
+        "md5": "c3af9643623e44a823e6bc4f55805640"
+    },
+    {
+        "path": "/media/posts/4/giphy.gif",
+        "type": "file",
+        "md5": "17b6371a1e2e08ca72f57ae13f29484e"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/allow-switch-access-control-lg.webp",
+        "type": "file",
+        "md5": "7d00c326e5f47f7b8532c7cdf7c00a50"
+    },
+    {
+        "path": "/media/posts/4/responsive/allow-switch-access-control-md.webp",
+        "type": "file",
+        "md5": "7d00c326e5f47f7b8532c7cdf7c00a50"
+    },
+    {
+        "path": "/media/posts/4/responsive/allow-switch-access-control-sm.webp",
+        "type": "file",
+        "md5": "7d00c326e5f47f7b8532c7cdf7c00a50"
+    },
+    {
+        "path": "/media/posts/4/responsive/allow-switch-access-control-xl.webp",
+        "type": "file",
+        "md5": "7d00c326e5f47f7b8532c7cdf7c00a50"
+    },
+    {
+        "path": "/media/posts/4/responsive/allow-switch-access-control-xs.webp",
+        "type": "file",
+        "md5": "c582c5f57c4a77f0d60fe5d18c1a60f3"
+    },
+    {
+        "path": "/media/posts/4/responsive/choose-how-to-scan-and-assign-gestures-2-lg.webp",
+        "type": "file",
+        "md5": "6bfeb8949db14e801053ba01868b36bb"
+    },
+    {
+        "path": "/media/posts/4/responsive/choose-how-to-scan-and-assign-gestures-2-md.webp",
+        "type": "file",
+        "md5": "6bfeb8949db14e801053ba01868b36bb"
+    },
+    {
+        "path": "/media/posts/4/responsive/choose-how-to-scan-and-assign-gestures-2-sm.webp",
+        "type": "file",
+        "md5": "6bfeb8949db14e801053ba01868b36bb"
+    },
+    {
+        "path": "/media/posts/4/responsive/choose-how-to-scan-and-assign-gestures-2-xl.webp",
+        "type": "file",
+        "md5": "6bfeb8949db14e801053ba01868b36bb"
+    },
+    {
+        "path": "/media/posts/4/responsive/choose-how-to-scan-and-assign-gestures-2-xs.webp",
+        "type": "file",
+        "md5": "ee265a0c197d95ee0e7ccd63cbc2f245"
+    },
+    {
+        "path": "/media/posts/4/responsive/choose-switch-type-and-number-of-switches-lg.webp",
+        "type": "file",
+        "md5": "61133bcd469ae24bc7411b5f634ca3ed"
+    },
+    {
+        "path": "/media/posts/4/responsive/choose-switch-type-and-number-of-switches-md.webp",
+        "type": "file",
+        "md5": "61133bcd469ae24bc7411b5f634ca3ed"
+    },
+    {
+        "path": "/media/posts/4/responsive/choose-switch-type-and-number-of-switches-sm.webp",
+        "type": "file",
+        "md5": "61133bcd469ae24bc7411b5f634ca3ed"
+    },
+    {
+        "path": "/media/posts/4/responsive/choose-switch-type-and-number-of-switches-xl.webp",
+        "type": "file",
+        "md5": "61133bcd469ae24bc7411b5f634ca3ed"
+    },
+    {
+        "path": "/media/posts/4/responsive/choose-switch-type-and-number-of-switches-xs.webp",
+        "type": "file",
+        "md5": "20f0a2d388880cbc1810cd1d7ba68ba6"
+    },
+    {
+        "path": "/media/posts/4/responsive/switch-access-accessibility-lg.webp",
+        "type": "file",
+        "md5": "9ef2ebdb8b20958d1b98e75d7a8ad98a"
+    },
+    {
+        "path": "/media/posts/4/responsive/switch-access-accessibility-md.webp",
+        "type": "file",
+        "md5": "9ef2ebdb8b20958d1b98e75d7a8ad98a"
+    },
+    {
+        "path": "/media/posts/4/responsive/switch-access-accessibility-sm.webp",
+        "type": "file",
+        "md5": "9ef2ebdb8b20958d1b98e75d7a8ad98a"
+    },
+    {
+        "path": "/media/posts/4/responsive/switch-access-accessibility-xl.webp",
+        "type": "file",
+        "md5": "9ef2ebdb8b20958d1b98e75d7a8ad98a"
+    },
+    {
+        "path": "/media/posts/4/responsive/switch-access-accessibility-xs.webp",
+        "type": "file",
+        "md5": "4ab1e0f56e1f729e7a7b900c7f3afe0a"
+    },
+    {
+        "path": "/media/posts/4/switch-access-accessibility.webp",
+        "type": "file",
+        "md5": "55af0096c2bbbcd8dc1d1ecd8f1051d5"
+    },
+    {
         "path": "movies-mods-and-more-index.html",
         "type": "file",
-        "md5": "aced0cde65ce408fe9c3d4cc7ba945e0"
+        "md5": "82259386c1dea031818ead1bc57b4def"
+    },
+    {
+        "path": "ow-to-control-your-android-phone-with-facial-expressions.html",
+        "type": "file",
+        "md5": "1e286a8278c4ded6088eb8c5d0f4e53b"
     },
     {
         "path": "robots.txt",
