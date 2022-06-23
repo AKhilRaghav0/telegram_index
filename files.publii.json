@@ -117,7 +117,7 @@
     {
         "path": "/authors/hawkeye/index.html",
         "type": "file",
-        "md5": "1f166bd2135b9025f4db33ccab4806d8"
+        "md5": "85155ead8cb8a699678f28d967aa5d2c"
     },
     {
         "path": "courses-torrent.html",
@@ -127,12 +127,22 @@
     {
         "path": "guides-index.html",
         "type": "file",
-        "md5": "7025a6075a3700aa6752c8d003a70c20"
+        "md5": "b7e944d89c99e26bbf1132fb6f5d3e30"
+    },
+    {
+        "path": "how-to-install-adb-on-windows-macos-linux-and-chrome-os.html",
+        "type": "file",
+        "md5": "342a50c89a0930d1a6cad86d9054663d"
+    },
+    {
+        "path": "how-to-remove-bloatware-from-your-android-phone-guide.html",
+        "type": "file",
+        "md5": "cedf76beaac57701fa8f1c630e99b783"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "70d7137d05dc5f46d64587666f442633"
+        "md5": "6ed525d967ae41c888f5af0605a96038"
     },
     {
         "path": "media",
@@ -315,14 +325,84 @@
         "md5": "55af0096c2bbbcd8dc1d1ecd8f1051d5"
     },
     {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/13.webp",
+        "type": "file",
+        "md5": "97f33dabc672d801b821726273cdb5b2"
+    },
+    {
+        "path": "/media/posts/5/14.webp",
+        "type": "file",
+        "md5": "b577d4451560f4f528e394f73e3f341c"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/13-lg.webp",
+        "type": "file",
+        "md5": "9d1686820f13e3035c59e2e70d43e010"
+    },
+    {
+        "path": "/media/posts/5/responsive/13-md.webp",
+        "type": "file",
+        "md5": "9d1686820f13e3035c59e2e70d43e010"
+    },
+    {
+        "path": "/media/posts/5/responsive/13-sm.webp",
+        "type": "file",
+        "md5": "ab2ab2ee25d8cb0eb4d42058446da631"
+    },
+    {
+        "path": "/media/posts/5/responsive/13-xl.webp",
+        "type": "file",
+        "md5": "9d1686820f13e3035c59e2e70d43e010"
+    },
+    {
+        "path": "/media/posts/5/responsive/13-xs.webp",
+        "type": "file",
+        "md5": "432fbc8b5c1d164ddb42663333b8dfe5"
+    },
+    {
+        "path": "/media/posts/5/responsive/14-lg.webp",
+        "type": "file",
+        "md5": "2456ae872b5e0258b24a1969d62aeb3c"
+    },
+    {
+        "path": "/media/posts/5/responsive/14-md.webp",
+        "type": "file",
+        "md5": "2456ae872b5e0258b24a1969d62aeb3c"
+    },
+    {
+        "path": "/media/posts/5/responsive/14-sm.webp",
+        "type": "file",
+        "md5": "ff5b302530585d3885ce0a8c1f7bc615"
+    },
+    {
+        "path": "/media/posts/5/responsive/14-xl.webp",
+        "type": "file",
+        "md5": "2456ae872b5e0258b24a1969d62aeb3c"
+    },
+    {
+        "path": "/media/posts/5/responsive/14-xs.webp",
+        "type": "file",
+        "md5": "dab83963a31019ed8df6e521aa98e7b4"
+    },
+    {
         "path": "movies-mods-and-more-index.html",
         "type": "file",
-        "md5": "82259386c1dea031818ead1bc57b4def"
+        "md5": "dde0295e7ae089f357ae63710f52a313"
     },
     {
         "path": "ow-to-control-your-android-phone-with-facial-expressions.html",
         "type": "file",
-        "md5": "1e286a8278c4ded6088eb8c5d0f4e53b"
+        "md5": "ed0d3b2828de47b113910788cd9899f0"
     },
     {
         "path": "robots.txt",
