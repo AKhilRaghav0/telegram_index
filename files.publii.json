@@ -117,7 +117,7 @@
     {
         "path": "/authors/hawkeye/index.html",
         "type": "file",
-        "md5": "6040e80c95c9db23632c112244da74b9"
+        "md5": "0409dba2cf0f7d30ff8c9cc7d114d5f9"
     },
     {
         "path": "courses-torrent.html",
@@ -127,7 +127,7 @@
     {
         "path": "guides-index.html",
         "type": "file",
-        "md5": "b7e944d89c99e26bbf1132fb6f5d3e30"
+        "md5": "84f2297c56725a4eda24d957107bc99a"
     },
     {
         "path": "how-to-install-adb-on-windows-macos-linux-and-chrome-os.html",
@@ -138,6 +138,11 @@
         "path": "how-to-remove-bloatware-from-your-android-phone-guide.html",
         "type": "file",
         "md5": "2acfd10e07713d21f86d63bf247e6c53"
+    },
+    {
+        "path": "how-to-stay-100-anonymous-on-the-internet.html",
+        "type": "file",
+        "md5": "882a055eb5c023d8688aa91360bb995d"
     },
     {
         "path": "index.html",
@@ -400,6 +405,316 @@
         "md5": "dab83963a31019ed8df6e521aa98e7b4"
     },
     {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/002_4103635-5b8707e8c9e77c002525cf77.jpg",
+        "type": "file",
+        "md5": "998dc782a7c84a0a70e5512f9301740d"
+    },
+    {
+        "path": "/media/posts/7/Install-XCode-on-Arch-Linux.png",
+        "type": "file",
+        "md5": "5977e693777a93bfabd7f0f94d413e5a"
+    },
+    {
+        "path": "/media/posts/7/ProtonMail-login-screen.webp",
+        "type": "file",
+        "md5": "218d625dbc1e6721b94ec2a9316e00f0"
+    },
+    {
+        "path": "/media/posts/7/Screen-Shot-2019-01-07-at-11.00.03-AM.webp",
+        "type": "file",
+        "md5": "e59c587cb1b2d274f550e24a48cdd6f4"
+    },
+    {
+        "path": "/media/posts/7/Screenshot-from-2022-06-25-20-57-41.png",
+        "type": "file",
+        "md5": "6646c9346672e31bcbfeedc4545c53e9"
+    },
+    {
+        "path": "/media/posts/7/Tor-Browser-Bundle_11.png",
+        "type": "file",
+        "md5": "e923c6576360bdd72dc333ab5f1c604d"
+    },
+    {
+        "path": "/media/posts/7/image9-1024x618.png",
+        "type": "file",
+        "md5": "70a7c0a8fcfe285b03e23741b3a2db83"
+    },
+    {
+        "path": "/media/posts/7/mainwindow.png",
+        "type": "file",
+        "md5": "43e7640c2c2fb911cfd3846e0ceb0d9a"
+    },
+    {
+        "path": "/media/posts/7/rdc5.jpg",
+        "type": "file",
+        "md5": "1752ce86b99f59c4cd10669ba357266a"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/002_4103635-5b8707e8c9e77c002525cf77-lg.jpg",
+        "type": "file",
+        "md5": "af3ea30e0ddccc73aa87aaa2034f2038"
+    },
+    {
+        "path": "/media/posts/7/responsive/002_4103635-5b8707e8c9e77c002525cf77-md.jpg",
+        "type": "file",
+        "md5": "ab63b57bff34e0da8e72d8e31b904be4"
+    },
+    {
+        "path": "/media/posts/7/responsive/002_4103635-5b8707e8c9e77c002525cf77-sm.jpg",
+        "type": "file",
+        "md5": "ecae7c01590bc6e3ba0062240287e582"
+    },
+    {
+        "path": "/media/posts/7/responsive/002_4103635-5b8707e8c9e77c002525cf77-xl.jpg",
+        "type": "file",
+        "md5": "bb23706030daa506a684da161471257c"
+    },
+    {
+        "path": "/media/posts/7/responsive/002_4103635-5b8707e8c9e77c002525cf77-xs.jpg",
+        "type": "file",
+        "md5": "c46550999e563aaaa99ea0beb83f1edd"
+    },
+    {
+        "path": "/media/posts/7/responsive/Install-XCode-on-Arch-Linux-lg.png",
+        "type": "file",
+        "md5": "8f4bc743bb862488a23a822d1c2ebb23"
+    },
+    {
+        "path": "/media/posts/7/responsive/Install-XCode-on-Arch-Linux-md.png",
+        "type": "file",
+        "md5": "71b2319452a9eb7147df1ef88ad88c9e"
+    },
+    {
+        "path": "/media/posts/7/responsive/Install-XCode-on-Arch-Linux-sm.png",
+        "type": "file",
+        "md5": "702db68fd16a6483ec0309481bea22af"
+    },
+    {
+        "path": "/media/posts/7/responsive/Install-XCode-on-Arch-Linux-xl.png",
+        "type": "file",
+        "md5": "7ca198b642860c87cd75d92f0bfe451c"
+    },
+    {
+        "path": "/media/posts/7/responsive/Install-XCode-on-Arch-Linux-xs.png",
+        "type": "file",
+        "md5": "2d2639e3625fefd2b0134c5fa5a57d4e"
+    },
+    {
+        "path": "/media/posts/7/responsive/ProtonMail-login-screen-lg.webp",
+        "type": "file",
+        "md5": "6d7e95722d26830a4c9e438cc12c77df"
+    },
+    {
+        "path": "/media/posts/7/responsive/ProtonMail-login-screen-md.webp",
+        "type": "file",
+        "md5": "c39d63f46cf62f920fa24dee8f06e711"
+    },
+    {
+        "path": "/media/posts/7/responsive/ProtonMail-login-screen-sm.webp",
+        "type": "file",
+        "md5": "f209383fe85f1b23f3ab5afe1b43e045"
+    },
+    {
+        "path": "/media/posts/7/responsive/ProtonMail-login-screen-xl.webp",
+        "type": "file",
+        "md5": "ebc34d679f17ad26bd12b1df76a5931f"
+    },
+    {
+        "path": "/media/posts/7/responsive/ProtonMail-login-screen-xs.webp",
+        "type": "file",
+        "md5": "49c1894a0d1fa8baa76b0275d204792d"
+    },
+    {
+        "path": "/media/posts/7/responsive/Screen-Shot-2019-01-07-at-11.00.03-AM-lg.webp",
+        "type": "file",
+        "md5": "c19f6bad3b1610c385ed2698f863835e"
+    },
+    {
+        "path": "/media/posts/7/responsive/Screen-Shot-2019-01-07-at-11.00.03-AM-md.webp",
+        "type": "file",
+        "md5": "609e1f2f014b9e1c58a16478eebee2f9"
+    },
+    {
+        "path": "/media/posts/7/responsive/Screen-Shot-2019-01-07-at-11.00.03-AM-sm.webp",
+        "type": "file",
+        "md5": "c54e981135d75783a171962c6416b406"
+    },
+    {
+        "path": "/media/posts/7/responsive/Screen-Shot-2019-01-07-at-11.00.03-AM-xl.webp",
+        "type": "file",
+        "md5": "5b86473953d8f118c3c46730e4150fdd"
+    },
+    {
+        "path": "/media/posts/7/responsive/Screen-Shot-2019-01-07-at-11.00.03-AM-xs.webp",
+        "type": "file",
+        "md5": "a480ee00b2c70419dc80f607acdff38e"
+    },
+    {
+        "path": "/media/posts/7/responsive/Screenshot-from-2022-06-25-20-57-41-lg.png",
+        "type": "file",
+        "md5": "d6c5a70293b9cfe2f6c1fea02e2eba1a"
+    },
+    {
+        "path": "/media/posts/7/responsive/Screenshot-from-2022-06-25-20-57-41-md.png",
+        "type": "file",
+        "md5": "72323a8427a450656269f5a65ffdc5ff"
+    },
+    {
+        "path": "/media/posts/7/responsive/Screenshot-from-2022-06-25-20-57-41-sm.png",
+        "type": "file",
+        "md5": "911c3e1a8b8879ede4e6190d2f48ba3b"
+    },
+    {
+        "path": "/media/posts/7/responsive/Screenshot-from-2022-06-25-20-57-41-xl.png",
+        "type": "file",
+        "md5": "d6c5a70293b9cfe2f6c1fea02e2eba1a"
+    },
+    {
+        "path": "/media/posts/7/responsive/Screenshot-from-2022-06-25-20-57-41-xs.png",
+        "type": "file",
+        "md5": "b0e00ce4efd913fb3a5f9e52946d3595"
+    },
+    {
+        "path": "/media/posts/7/responsive/Tor-Browser-Bundle_11-lg.png",
+        "type": "file",
+        "md5": "7d091bf77d21a265af2cf39735d0bbb1"
+    },
+    {
+        "path": "/media/posts/7/responsive/Tor-Browser-Bundle_11-md.png",
+        "type": "file",
+        "md5": "fe22ad3514d62494290b49fd85f768b8"
+    },
+    {
+        "path": "/media/posts/7/responsive/Tor-Browser-Bundle_11-sm.png",
+        "type": "file",
+        "md5": "11908705e6e992c57d863346ade84b41"
+    },
+    {
+        "path": "/media/posts/7/responsive/Tor-Browser-Bundle_11-xl.png",
+        "type": "file",
+        "md5": "7d091bf77d21a265af2cf39735d0bbb1"
+    },
+    {
+        "path": "/media/posts/7/responsive/Tor-Browser-Bundle_11-xs.png",
+        "type": "file",
+        "md5": "67fa7c57f991cf0720332dfa8009c859"
+    },
+    {
+        "path": "/media/posts/7/responsive/image9-1024x618-lg.png",
+        "type": "file",
+        "md5": "c8bbac741971c7f44d6d53e35ceb4061"
+    },
+    {
+        "path": "/media/posts/7/responsive/image9-1024x618-md.png",
+        "type": "file",
+        "md5": "acb80c390587aa5c145ebe9c41049bea"
+    },
+    {
+        "path": "/media/posts/7/responsive/image9-1024x618-sm.png",
+        "type": "file",
+        "md5": "91605c5673f8461f7c1bcb1e8875a71e"
+    },
+    {
+        "path": "/media/posts/7/responsive/image9-1024x618-xl.png",
+        "type": "file",
+        "md5": "c8bbac741971c7f44d6d53e35ceb4061"
+    },
+    {
+        "path": "/media/posts/7/responsive/image9-1024x618-xs.png",
+        "type": "file",
+        "md5": "0d42a11a5c2a9ebfc6cfe9e03c4be6c9"
+    },
+    {
+        "path": "/media/posts/7/responsive/mainwindow-lg.png",
+        "type": "file",
+        "md5": "ceca2eb6fab1dcb254519a243108fe3f"
+    },
+    {
+        "path": "/media/posts/7/responsive/mainwindow-md.png",
+        "type": "file",
+        "md5": "6421ff010c34583c6e65759671b6224a"
+    },
+    {
+        "path": "/media/posts/7/responsive/mainwindow-sm.png",
+        "type": "file",
+        "md5": "714130510a7bed865516a479010204e4"
+    },
+    {
+        "path": "/media/posts/7/responsive/mainwindow-xl.png",
+        "type": "file",
+        "md5": "ceca2eb6fab1dcb254519a243108fe3f"
+    },
+    {
+        "path": "/media/posts/7/responsive/mainwindow-xs.png",
+        "type": "file",
+        "md5": "3a36cb0c2bb8b59f395f7b3536154894"
+    },
+    {
+        "path": "/media/posts/7/responsive/rdc5-lg.jpg",
+        "type": "file",
+        "md5": "f293e801d98dc74ff588933cf4330951"
+    },
+    {
+        "path": "/media/posts/7/responsive/rdc5-md.jpg",
+        "type": "file",
+        "md5": "6569651b605550c22ec20d163b69a503"
+    },
+    {
+        "path": "/media/posts/7/responsive/rdc5-sm.jpg",
+        "type": "file",
+        "md5": "1b7ef995faf7b1fd50916b6b2795e1b1"
+    },
+    {
+        "path": "/media/posts/7/responsive/rdc5-xl.jpg",
+        "type": "file",
+        "md5": "f293e801d98dc74ff588933cf4330951"
+    },
+    {
+        "path": "/media/posts/7/responsive/rdc5-xs.jpg",
+        "type": "file",
+        "md5": "f8ce591874299536b594b35f7aa19e30"
+    },
+    {
+        "path": "/media/posts/7/responsive/textnow-review-1-lg.jpg",
+        "type": "file",
+        "md5": "5ea5ccdf93079ab8fdeff49fc241c9cd"
+    },
+    {
+        "path": "/media/posts/7/responsive/textnow-review-1-md.jpg",
+        "type": "file",
+        "md5": "b437bd6d45952cdc64583e94da328dde"
+    },
+    {
+        "path": "/media/posts/7/responsive/textnow-review-1-sm.jpg",
+        "type": "file",
+        "md5": "a59d527580055ae99828f02e53a649dd"
+    },
+    {
+        "path": "/media/posts/7/responsive/textnow-review-1-xl.jpg",
+        "type": "file",
+        "md5": "5ea5ccdf93079ab8fdeff49fc241c9cd"
+    },
+    {
+        "path": "/media/posts/7/responsive/textnow-review-1-xs.jpg",
+        "type": "file",
+        "md5": "f90d722b48739467a925c673ee6761c0"
+    },
+    {
+        "path": "/media/posts/7/textnow-review-1.jpg",
+        "type": "file",
+        "md5": "045c551299a3ec7c9688222cc4820504"
+    },
+    {
         "path": "movies-mods-and-more-index.html",
         "type": "file",
         "md5": "65c7fb18741d54be5b1d4d0741d63a05"
@@ -407,7 +722,7 @@
     {
         "path": "ow-to-control-your-android-phone-with-facial-expressions.html",
         "type": "file",
-        "md5": "dc85937003efb6170588167184bf98e3"
+        "md5": "97c84fba4de49de2f06fc8e39abb685a"
     },
     {
         "path": "robots.txt",
