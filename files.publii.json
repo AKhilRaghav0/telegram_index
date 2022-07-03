@@ -240,6 +240,76 @@
         "md5": "2d604e15981040086472f22d36201b2a"
     },
     {
+        "path": "/media/posts/10/gallery/xmrig1-2-thumbnail.png",
+        "type": "file",
+        "md5": "0069ebdeb533881093f6114cf4dde60d"
+    },
+    {
+        "path": "/media/posts/10/gallery/xmrig1-2.png",
+        "type": "file",
+        "md5": "96fe507802ced8863181f43688b227b9"
+    },
+    {
+        "path": "/media/posts/10/gallery/xmrig2-2-thumbnail.png",
+        "type": "file",
+        "md5": "6630ff7761e75c12d726cdc677e12109"
+    },
+    {
+        "path": "/media/posts/10/gallery/xmrig2-2.png",
+        "type": "file",
+        "md5": "4d2a5103962c7183bdf66d7544e8df9c"
+    },
+    {
+        "path": "/media/posts/10/gallery/xmrig3-2-thumbnail.png",
+        "type": "file",
+        "md5": "ef202e516ee05cc80c728040efe1680b"
+    },
+    {
+        "path": "/media/posts/10/gallery/xmrig3-2.png",
+        "type": "file",
+        "md5": "56b2265571509ea52cebf44adb9fa48f"
+    },
+    {
+        "path": "/media/posts/10/gallery/xmrig4-2-thumbnail.png",
+        "type": "file",
+        "md5": "b2e623a687bd84af47530dac4f76d554"
+    },
+    {
+        "path": "/media/posts/10/gallery/xmrig4-2.png",
+        "type": "file",
+        "md5": "6d5e2a78ee3b4bb1774236f051327ddd"
+    },
+    {
+        "path": "/media/posts/10/gallery/xmrig5-2-thumbnail.png",
+        "type": "file",
+        "md5": "8691d076edcf7bb046ae8f3a444f726d"
+    },
+    {
+        "path": "/media/posts/10/gallery/xmrig5-2.png",
+        "type": "file",
+        "md5": "ab2b4a36798ea1b8114cdb87f0f102d2"
+    },
+    {
+        "path": "/media/posts/10/gallery/xmrig6-2-thumbnail.png",
+        "type": "file",
+        "md5": "a539af6de715a127a0549ace119c63d4"
+    },
+    {
+        "path": "/media/posts/10/gallery/xmrig6-2.png",
+        "type": "file",
+        "md5": "210fb69e063576bce676ce7ba8c7274e"
+    },
+    {
+        "path": "/media/posts/10/gallery/xmrig7-2-thumbnail.png",
+        "type": "file",
+        "md5": "182be841db7ecc37eb26951e5ab23a1f"
+    },
+    {
+        "path": "/media/posts/10/gallery/xmrig7-2.png",
+        "type": "file",
+        "md5": "79c40a29db6ed2067a1f8d981ed30eb1"
+    },
+    {
         "path": "media/posts/10/responsive",
         "type": "directory",
         "md5": false
@@ -882,6 +952,6 @@
     {
         "path": "xmrig-on-termux.html",
         "type": "file",
-        "md5": "28dd5064deea01b12f0a4059d650f637"
+        "md5": "ea00629c7fd985d3720579390a130989"
     }
 ]
